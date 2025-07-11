@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """
-Gene Comparison and Classification (GCG) Tool
+Gene Consensus Generator (GCG) Tool
 
 This script compares gene predictions from MetaGeneMark and Prodigal tools,
 classifying genes into different categories: consensus, insertio, concomitantiam, and exclusivus.
+This is a refactored version, any problem should be reported to emersonwdanzer@gmail.com
 """
 
 import sys
