@@ -1,4 +1,4 @@
-# Gene Comparison and Classification (GCG) Tool
+# Gene Consensus Generator (GCG) Tool
 
 A Python tool for comparing gene predictions from MetaGeneMark and Prodigal tools, classifying genes into different categories based on their overlap patterns.
 
